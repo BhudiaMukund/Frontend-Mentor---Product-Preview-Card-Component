@@ -23,11 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/BhudiaMukund/Frontend-Mentor-Product-Preview-Card-Component](https://github.com/BhudiaMukund/Frontend-Mentor-Product-Preview-Card-Component)
 - Live Site URL: [[Add live site URL here](https://product-preview-card-component-challenge.netlify.app/)][(https://your-live-site-url.com](https://product-preview-card-component-challenge.netlify.app/))
 
 ## My process
